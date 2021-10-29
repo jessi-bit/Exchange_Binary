@@ -1,7 +1,4 @@
-  #while(num!=0){// num = 428
-    #tmp = num%10; 
-      #num = num/10; 
-	#inv = inv*10+tmp;}
+
 .data                                                                                    
 strSpace : .asciiz " "
 dati: .word -214
